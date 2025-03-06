@@ -13,5 +13,5 @@ Perfil criado com o intuito de compartilhar e armazenar meus códigos de projeto
 
 ## Perfil na itch.io
 
-  [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)]((https://endz-23.itch.io))
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://endz-23.itch.io)
   
